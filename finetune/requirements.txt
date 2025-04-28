@@ -1,10 +1,10 @@
-torch==2.0.1
+torch==2.4.0
 tokenizers==0.14.0
-transformers==4.35.0
+transformers==4.48.0
 accelerate==0.24.1
 attrdict
 tqdm
 
-deepspeed==0.12.2
+deepspeed==0.15.1
 datasets
 tensorboardX
